@@ -1,4 +1,4 @@
-# Olá! Eu sou a Pamela Rocha 👋
+# Olá! Eu sou a Pamela Rocha 🙋‍♀️
 
 🎓 **Formada em Sistemas para Internet pela Fatec de São Roque**
 💻 Desenvolvedora em formação com foco em **Flutter e Python**
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 👩‍💻 Sobre mim
 
 Sou formada em **Sistemas para Internet pela Fatec de São Roque** e estou em processo de consolidação da minha carreira na área de tecnologia através do desenvolvimento de projetos práticos.
 
