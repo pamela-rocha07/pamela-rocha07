@@ -26,34 +26,54 @@ Além da formação em tecnologia, possuo **mais de 7 anos de experiência na á
 
 Tecnologias que já tive contato ou estou estudando atualmente:
 
-* Flutter
-* Dart
-* Python
-* PHP
-* SQL
-* SQLite
-* Git e GitHub
+## 🛠 Tecnologias
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Flutter" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+
+<img align="center" alt="Dart" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+
+<img align="center" alt="Python" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<img align="center" alt="PHP" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
+<img align="center" alt="Git" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</div>
 
 ---
 
-## 📱 Projetos
+## 🚀 Projetos em destaque
 
-🔹 **Flutter CRUD com SQLite**
-Aplicação mobile desenvolvida em Flutter para gerenciamento de produtos utilizando banco de dados local SQLite.
+📱 Flutter CRUD com SQLite  
+Aplicação mobile para gerenciamento de produtos com banco de dados local.
 
-Repositório:
+🔗 Repositório  
 https://github.com/pamela-rocha07/flutter-product-crud-sqlite
-
 ---
 
-## 🎯 Objetivos atuais
+## 📊 Estatísticas GitHub
 
-* Evoluir no desenvolvimento de aplicações com **Flutter**
-* Aprofundar conhecimentos em **Python**
-* Construir um **portfólio sólido de projetos**
-* Atuar profissionalmente na área de **tecnologia**
+![Pamela GitHub stats](https://github-readme-stats.vercel.app/api?username=pamela-rocha07&show_icons=true&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pamela-rocha07&layout=compact&theme=tokyonight)
+
+## 🔥 Sequência de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pamela-rocha07&theme=tokyonight)
+
+## 🎯 Objetivos
+
+- Evoluir no desenvolvimento mobile com Flutter
+- Aprimorar programação em Python
+- Desenvolver aplicações completas
+- Construir um portfólio sólido de projetos
 
 ## 📫 Contato
 
