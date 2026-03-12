@@ -22,10 +22,6 @@ Além da formação em tecnologia, possuo **mais de 7 anos de experiência na á
 
 ---
 
-## 🛠 Tecnologias e ferramentas
-
-Tecnologias que já tive contato ou estou estudando atualmente:
-
 ## 🛠 Tecnologias
 
 <div style="display: inline_block"><br>
